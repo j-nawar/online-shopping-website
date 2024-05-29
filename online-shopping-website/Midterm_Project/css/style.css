@@ -1,0 +1,49 @@
+.navbar{
+    background: pink;
+    font-size: larger;
+
+}
+
+.home{
+    background-color:bisque;
+    align-items: center;
+    align-content: center; 
+    font-size: large;
+}
+.edu{
+    background-color:#E6DCD2 ;
+}
+
+.skills{
+    background-color: bisque;
+    text-align: center;
+}
+
+.job{
+    background-color:#E6DCD2 ;
+}
+
+.contact{
+    background-color: aquamarine;
+}
+img {
+    width: 50%;
+    height: auto;
+  }
+
+  h3{
+      color: rgb(226, 43, 98);
+      font-family: cursive;
+      font-weight: lighter;
+
+  }
+
+  h1{
+      color: rgb(144, 11, 66);
+      font-family: cursive;
+      font-weight: bolder;
+  }
+
+  h2{
+      color: rgb(131, 29, 29);
+  }
